@@ -9,9 +9,10 @@ Color Code Generator is an iOS application that generates random hex color codes
 - ✨ Responsive and user-friendly interface.
 
 ## 📸 Screenshots
-![simulator_screenshot_2C73E37D-E96B-4DEE-876E-422058E1C468](https://github.com/user-attachments/assets/78bf34bb-53c6-4495-a5e5-16876ad71d85)
-![simulator_screenshot_AA5F63B6-F77C-454D-BA36-BFE205E2ECF8](https://github.com/user-attachments/assets/872d664a-f58e-42c5-9cdf-37a3b76f2c2b)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/78bf34bb-53c6-4495-a5e5-16876ad71d85" alt="Screenshot 1" width="300" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/872d664a-f58e-42c5-9cdf-37a3b76f2c2b" alt="Screenshot 2" width="300" style="margin-left: 10px;" />
+</div>
 
 ## 📦 Dependencies
 - SwiftUI
@@ -23,7 +24,7 @@ Color Code Generator is an iOS application that generates random hex color codes
 1. Launch the app.
 2. Click the "Generate Color" button to create a new color.
 3. The generated color will be displayed on a card.
-4. The app will automatically sync color data with Firebase when online using sync button.
+4. The app will automatically sync color data with Firebase when online using the sync button.
 
 ## 📞 Contact
 For any inquiries or feedback, please reach out to: omveerpanwar@example.com
@@ -38,5 +39,4 @@ This project aims to provide a simple and efficient way to generate and manage c
 - Swift - 100.0%
 
 ## Database Record
-<img width="1433" alt="Screenshot 2024-09-27 at 2 58 18 PM" src="https://github.com/user-attachments/assets/b76a0651-396e-4870-b670-b601c7205a85">
-
+<img width="1433" alt="Database Screenshot" src="https://github.com/user-attachments/assets/b76a0651-396e-4870-b670-b601c7205a85">
