@@ -11,6 +11,7 @@ Color Code Generator is an iOS application that generates random hex color codes
 ## 📸 Screenshots
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/78bf34bb-53c6-4495-a5e5-16876ad71d85" alt="Screenshot 1" width="300" style="margin-right: 10px;" />
+  &#160&#160&#160&#160&#160
   <img src="https://github.com/user-attachments/assets/872d664a-f58e-42c5-9cdf-37a3b76f2c2b" alt="Screenshot 2" width="300" style="margin-left: 10px;" />
 </div>
 
