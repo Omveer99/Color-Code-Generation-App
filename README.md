@@ -36,8 +36,8 @@ This project aims to provide a simple and efficient way to generate and manage c
 ## Contributors
 - [Omveer Panwar](#) - @Omveer99
 
-## Languages
+## 🫶🥹 Languages
 - Swift - 100.0%
 
-## Database Record
+## ⛁ Database Record
 <img width="1433" alt="Database Screenshot" src="https://github.com/user-attachments/assets/b76a0651-396e-4870-b670-b601c7205a85">
