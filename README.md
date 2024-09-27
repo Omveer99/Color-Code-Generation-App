@@ -32,6 +32,8 @@ For any inquiries or feedback, please reach out to: omveerpanwar@example.com
 
 ## About
 This project aims to provide a simple and efficient way to generate and manage color codes for designers and developers.
+### 🎥 Preview
+Watch the Video Preview [here](https://youtu.be/PzqfOXyV5Sw)
 
 ## Contributors
 - [Omveer Panwar](#) - @Omveer99
